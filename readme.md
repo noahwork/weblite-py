@@ -4,7 +4,7 @@
 - 基于 Socket 的 HTTP 服务器和类 Flask MVC 框架 是使用 Python 编写的 Web 框架。
 - 技术栈：Python + Socket + MySQL + HTTP
 
-![demo](https://github.com/noahwork/weblite-py/blob/master/weibo.gif)
+![demo](https://github.com/noahwork/weblite-py/blob/main/weibo.gif)
 
 功能
 --------
