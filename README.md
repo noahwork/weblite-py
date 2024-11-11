@@ -2,7 +2,7 @@
 ===========================================
 - 技术栈：Python + Socket + MySQL + HTTP
 
-![demo](https://github.com/noahwork/weblite-py/blob/master/weibo.gif)
+![demo](./weibo.gif)
 
 功能
 --------
