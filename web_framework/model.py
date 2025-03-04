@@ -42,7 +42,7 @@ class SQLModel(object):
         # INSERT INTO
         #     `user` (`username`, `password`, `email`)
         # VALUES
-        #     (`gua`, `123`, `gua@gua.com`)
+        #     (`noa`, `123`, `noa@noa.com`)
         connection = cls._pymysql_connection()
         try:
             sql_keys = []
